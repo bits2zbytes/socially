@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136761548159",
+    "firebase_url": "https://socially-29417.firebaseio.com",
+    "project_id": "socially-29417",
+    "storage_bucket": "socially-29417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136761548159:android:5376ced946dd67705ace4a",
+        "android_client_info": {
+          "package_name": "com.example.socially"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136761548159-slh2oc3vg69jp1nlv6i129moh349gpo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYwtyehYGThhGuwpBqj4qlnE57EIrNyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136761548159-slh2oc3vg69jp1nlv6i129moh349gpo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
